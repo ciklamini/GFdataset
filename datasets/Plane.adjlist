@@ -1,6 +1,6 @@
-#D:\school\Disertace\code\01_hello_GNSFEM\hello_gnsfem_element_C3D4_design_03.py
+# Author: Marek Ciklamini
 # GMT Thu Dec 22 06:49:55 2022
-# Plane
+# Plane: Graph
 1 31 13 972 1077 5 968 9 4393 4317 4660 4081
 2 11 126 4 132 3 10 4398 4357 4643 4274
 3 4 132 6 2 4357 4398 4203 4146
