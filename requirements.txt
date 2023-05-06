@@ -4,3 +4,4 @@ gunicorn
 networkx
 numpy
 plotly
+dash_vtk
