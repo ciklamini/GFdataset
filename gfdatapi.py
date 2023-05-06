@@ -21,7 +21,7 @@ pt3 = pt2.T
 pt.loc[1:,['u', 'v','w']]  = pt3
 shift_ = 2
 app = dash.Dash(__name__) 
-# server = app.server
+server = app.server
 fig = go.Figure(data=go.Cone( 
                                 # x=pt.loc[1:, 'x']- shift_, 
                                 # y=pt.loc[1:, 'y']- shift_, 
