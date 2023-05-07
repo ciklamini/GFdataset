@@ -44,16 +44,18 @@ def defVTKfile(VTU_FILE:str):
         background=[1, 1, 1],
     )
     return vtk_view
-vtk_view_b2 = defVTKfile(geo_struct_b2)
-vtk_view_b3 = defVTKfile(geo_struct_b3)
-vtk_view_fs = defVTKfile(geo_struct_fs)
+#vtk_view_b2 = defVTKfile(geo_struct_b2)
+#vtk_view_b3 = defVTKfile(geo_struct_b3)
+#vtk_view_fs = defVTKfile(geo_struct_fs)
 vtk_view_pl = defVTKfile(geo_struct_pl)
 app.layout = html.Div(
     style={"height": "calc(100vh - 16px)"},
-    children=[html.Div(vtk_view_b2, style={"height": "100%", "width": "100%", }),
-              html.Div(vtk_view_b3, style={"height": "100%", "width": "100%", }),
-              html.Div(vtk_view_fs, style={"height": "100%", "width": "100%", }),
-              html.Div(vtk_view_pl, style={"height": "100%", "width": "100%", })],
+    children=[
+                #html.Div(vtk_view_b2, style={"height": "100%", "width": "100%", }),
+                #html.Div(vtk_view_b3, style={"height": "100%", "width": "100%", }),
+                #html.Div(vtk_view_fs, style={"height": "100%", "width": "100%", }),
+                html.Div(vtk_view_pl, style={"height": "100%", "width": "100%", })
+             ],
     
 )
-if __name__ == "__main__":    app.run_server(debug=True)
+if __name__ == "__main__":    app.run_server(debug=False)
