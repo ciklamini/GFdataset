@@ -11,11 +11,6 @@ import numpy as np
 import vtk
 from dash_vtk.utils import to_mesh_state
 
-# geo_struct = 'Beam2D'
-# geo_struct = 'Beam3D'
-geo_struct = 'fibonacci'
-# geo_struct = 'plane'
-
 geo_struct_b2 = 'Beam2D.vtu'
 geo_struct_b3 = 'Beam3D.vtu'
 geo_struct_fs = 'fibonacci.vtu'
