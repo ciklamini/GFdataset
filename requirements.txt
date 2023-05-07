@@ -5,3 +5,4 @@ networkx
 numpy
 plotly
 dash_vtk
+vtk
