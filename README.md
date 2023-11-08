@@ -14,4 +14,4 @@ editor	 = {	R. Paulen and M. Fikar},
 address	 = {	\v{S}trbsk\'e Pleso, Slovakia}}
 
 
-https://www.researchgate.net/publication/373317941_GF_dataset_Mesh-Based_Graphs_Dataset_for_a_Digital_Twin_of_a_Mechanical_Systems
+[GF dataset: Mesh-Based Graphs Dataset for a Digital Twin of a Mechanical Systems]https://ieeexplore.ieee.org/document/10217603/
