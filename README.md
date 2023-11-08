@@ -12,3 +12,6 @@ year	 = {	2023},
 pages	 = {	209-214},
 editor	 = {	R. Paulen and M. Fikar},
 address	 = {	\v{S}trbsk\'e Pleso, Slovakia}}
+
+
+https://www.researchgate.net/publication/373317941_GF_dataset_Mesh-Based_Graphs_Dataset_for_a_Digital_Twin_of_a_Mechanical_Systems
