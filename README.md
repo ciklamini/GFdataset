@@ -2,16 +2,22 @@
 
 https://gfdataset.onrender.com/ 
 
+@INPROCEEDINGS{10217603,
 
-BibTeX
-@inProceedings{pc2023-012,
-author	 = {	Ciklamini, M.},
-title	 = {	GF dataset: Mesh-Based Graphs Dataset for a Digital Twin of a Mechanical Systems},
-booktitle	 = {	Proceedings of the 2023 24th International Conference on Process Control (PC)},
-year	 = {	2023},
-pages	 = {	209-214},
-editor	 = {	R. Paulen and M. Fikar},
-address	 = {	\v{S}trbsk\'e Pleso, Slovakia}}
+  author={Ciklamini, Marek},
 
+  booktitle={2023 24th International Conference on Process Control (PC)}, 
 
-[GF dataset: Mesh-Based Graphs Dataset for a Digital Twin of a Mechanical Systems]https://ieeexplore.ieee.org/document/10217603/
+  title={GF dataset: Mesh-Based Graphs Dataset for a Digital Twin of a Mechanical Systems}, 
+
+  year={2023},
+
+  volume={},
+
+  number={},
+
+  pages={209-214},
+
+  keywords={Adaptation models;Supervised learning;Process control;Machine learning;Benchmark testing;Graph neural networks;Finite element analysis;Data set;Graph Neural Networks;Finite Element Method;Mechanical digital twin;Artificial Neural Networks;Supervised learning},
+
+  doi={10.1109/PC58330.2023.10217603}}
