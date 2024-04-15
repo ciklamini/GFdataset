@@ -1,6 +1,4 @@
-# GFdataset
 
-https://gfdataset.onrender.com/ 
 
 @INPROCEEDINGS{10217603,
 
