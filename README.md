@@ -1,4 +1,5 @@
 
+[] https://figshare.com/articles/software/Finite_Element-Based_Graph_Neural_Network_Models_with_Essential_Reduction_Techniques_Aiming_at_Efficient_Structural_Analysis/27937977
 
 @INPROCEEDINGS{10217603,
 
